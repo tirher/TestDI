@@ -1,1 +1,9 @@
-<ROOT/>
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+   <ArchInfo Date="1684775634191" Description="version B" Name="List_job"
+             PackageName="List_job.spk"
+             UserID="sasdemo@sas-aap"
+             Version="cbbe166">
+      <ContainObj>SBIP://METASERVER/Projects/JOBs/List_Job(Job)</ContainObj>
+   </ArchInfo>
+</ROOT>
